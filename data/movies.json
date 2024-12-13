@@ -1,0 +1,15 @@
+[
+    {
+        "name":"demo movie1",
+        "description":"Whether you are new to PHP web frameworks or have years of experience, Laravel is a framework that can grow with you. We'll help you take your first steps as a web developer or give you a boost as you take your expertise to the next level. We can't wait to see what you build.",
+        "duration":120,
+        "ratings":"3.0",
+        "totalRating":"100",
+        "releaseYear":2023,
+        "genres":"sdf, fads,asdf",
+        "directors":"Whether Whether2 Whether3",
+        "coverImage":"",
+        "actors":"actor1, actor2, actor3",
+        "price":25000
+    }
+]
